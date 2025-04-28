@@ -1,1 +1,5 @@
-Collaborated as a team of 4 students to fine-tune TinyLlama using a custom set of 77 words and defined specific rules for how they defeat each other. After training, we prompt the model with a "system" word, and it responds by selecting a word from the 77 that would defeat it according to the rules. This project demonstrates controlled fine-tuning for strategic word selection.
+This is a lightweight fine-tuned version of TinyLlama, designed to simulate strategic word battles. It is trained on a custom set of 77 words, with specific rules defining which words defeat others.
+
+Through a simple interaction, it accepts a "system" word and intelligently selects one of the 77 words that can defeat it, following the predefined rules. This system showcases fine-tuning for controlled reasoning and dynamic decision-making.
+
+The project is focused strictly on its internal 77-word rule set and is not intended to generate freeform responses or unrelated outputs. Its goal is to demonstrate structured response generation based on rule-driven fine-tuning.
