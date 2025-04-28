@@ -1,0 +1,1 @@
+I fine-tuned TinyLlama using a custom set of 77 words and defined specific rules for how they defeat each other. After training, I prompt the model with a "system" word, and it responds by selecting a word from the 77 that would defeat it according to the rules. This project demonstrates controlled fine-tuning for strategic word selection.
